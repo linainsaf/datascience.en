@@ -1,0 +1,46 @@
+site_name: Data Science
+docs_dir: '../../docs/en'
+site_dir: '../../generated/en'                      # Where to put the English HTML files
+site_url: https://datascience_careerera.com/
+
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+  - pymdownx.arithmatex:
+      generic: true
+
+extra_javascript:
+  - javascripts/mathjax.js
+  - https://polyfill.io/v3/polyfill.min.js?features=es6
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js 
+  
+theme:
+  name: material
+  language: en                          # The build's language
+
+
+plugins:
+  - search:                                         
+      lang: en                                      # Set language for search
+
+nav: 
+  - Home: 'index.md'
+  - 'Python Programming':
+    - 'Introduction to Python Programming': 'intro.md'
+    - 'Setting up a Development Environment': 'env.md'
+    - 'Basic Python Concepts': 'basic.md'
+    - 'Object Oriented Programming in Python': 'oop.md'
+    - 'File Input/Output (I/O) Operations': 'io.md'
+    - 'Python with Data Science tools': 
+      - 'Understanding & working with Numpy': 'numpy.md'
+      - 'Understanding & working with Pandas': 'pd.md'
+      - 'Understanding & working with Matplotlib' : 'plt.md'
+      - 'Understanding & working with Seaborn' : 'sns.md'
+  - 'Database Management Systems' :
+    - 'Introduction to DBMS' : '01_sql_intro.md'
+    - 'Introduction to RDBMS' : '02_db_kesako.md'
