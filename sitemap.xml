@@ -2,62 +2,107 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://datascience_careerera.com/</loc>
-         <lastmod>2023-03-08</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://datascience_careerera.com/01_sql_intro/</loc>
-         <lastmod>2023-03-08</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://datascience_careerera.com/02_db_kesako/</loc>
-         <lastmod>2023-03-08</lastmod>
+         <lastmod>2023-03-11</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://datascience_careerera.com/basic/</loc>
-         <lastmod>2023-03-08</lastmod>
+         <lastmod>2023-03-11</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://datascience_careerera.com/env/</loc>
-         <lastmod>2023-03-08</lastmod>
+         <lastmod>2023-03-11</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://datascience_careerera.com/intro/</loc>
-         <lastmod>2023-03-08</lastmod>
+         <lastmod>2023-03-11</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://datascience_careerera.com/io/</loc>
-         <lastmod>2023-03-08</lastmod>
+         <lastmod>2023-03-11</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://datascience_careerera.com/numpy/</loc>
-         <lastmod>2023-03-08</lastmod>
+         <lastmod>2023-03-11</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://datascience_careerera.com/oop/</loc>
-         <lastmod>2023-03-08</lastmod>
+         <lastmod>2023-03-11</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://datascience_careerera.com/pd/</loc>
-         <lastmod>2023-03-08</lastmod>
+         <lastmod>2023-03-11</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://datascience_careerera.com/plt/</loc>
-         <lastmod>2023-03-08</lastmod>
+         <lastmod>2023-03-11</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://datascience_careerera.com/sns/</loc>
-         <lastmod>2023-03-08</lastmod>
+         <lastmod>2023-03-11</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://datascience_careerera.com/sql/01_sql_intro/</loc>
+         <lastmod>2023-03-11</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://datascience_careerera.com/sql/02_db_kesako/</loc>
+         <lastmod>2023-03-11</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://datascience_careerera.com/sql/03_table/</loc>
+         <lastmod>2023-03-11</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://datascience_careerera.com/sql/04_basics/</loc>
+         <lastmod>2023-03-11</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://datascience_careerera.com/sql/07_creating_tables/</loc>
+         <lastmod>2023-03-11</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://datascience_careerera.com/sql/08_insert/</loc>
+         <lastmod>2023-03-11</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://datascience_careerera.com/sql/09_constraints/</loc>
+         <lastmod>2023-03-11</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://datascience_careerera.com/sql/10_update_delete/</loc>
+         <lastmod>2023-03-11</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://datascience_careerera.com/sql/11_queries/</loc>
+         <lastmod>2023-03-11</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://datascience_careerera.com/sql/12_company_db_1/</loc>
+         <lastmod>2023-03-11</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://datascience_careerera.com/sql/13_queries_db/</loc>
+         <lastmod>2023-03-11</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
