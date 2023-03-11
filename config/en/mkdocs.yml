@@ -42,5 +42,16 @@ nav:
       - 'Understanding & working with Matplotlib' : 'plt.md'
       - 'Understanding & working with Seaborn' : 'sns.md'
   - 'Database Management Systems' :
-    - 'Introduction to DBMS' : '01_sql_intro.md'
-    - 'Introduction to RDBMS' : '02_db_kesako.md'
+    - 'Introduction to DBMS' : 'sql/01_sql_intro.md'
+    - 'Relational DBMS' :
+      - 'Introduction' : 'sql/02_db_kesako.md'
+      - 'Tables & Keys': 'sql/03_table.md'
+      - 'SQL': 'sql/04_basics.md'
+      - 'DDL Statements':
+        - 'Creating tables': 'sql/07_creating_tables.md'
+        - 'Inserting Data': 'sql/08_insert.md'
+        - 'Constraints': 'sql/09_constraints.md'
+        - 'Update & Delete': 'sql/10_update_delete.md'
+        - 'Basic Queries': 'sql/11_queries.md'
+    - 'Build a company database from scratch': 'sql/12_company_db_1.md'
+    - 'More Queries': 'sql/13_queries_db.md'
